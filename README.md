@@ -63,7 +63,12 @@ Ensure you have the following installed:
    go mod tidy
    ```
 
-3. **.env.example**:
+3. **Rename the project modules and directory**:
+    ```
+   ./rename_project.sh github.com/MikaSRahwono/initialize-go-project github.com/your-username/your-project-name
+   ```
+
+4. **Copy .env.example**:
     ```
    cp .env.example .env
    ```
