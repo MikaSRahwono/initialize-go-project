@@ -54,7 +54,7 @@ Ensure you have the following installed:
 1. **Clone the repository**:
 
    ```
-   git clone https://github.com/your-username/initialize-go-project.git
+   git clone https://github.com/MikaSRahwono/initialize-go-project.git
    cd initialize-go-project
    ```
 
